@@ -1,4 +1,4 @@
-/.bash_logout
+.bash_logout
 /.cache
 /.profile
 /.ssh
@@ -9,3 +9,4 @@
 /.gitconfig/
 /.bashrc
 /.bash_history
+/.local/
