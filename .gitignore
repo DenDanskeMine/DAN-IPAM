@@ -4,3 +4,7 @@
 /.ssh
 /.vscode-server
 /.wget-hsts
+/.dotnet/
+/.dotnet/tools
+/.gitconfig/
+/.bashrc
